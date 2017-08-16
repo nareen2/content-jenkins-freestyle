@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-My Freestyle experiment
+My Freestyle experiment for auto-trigger
