@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-My Freestyle experiment for auto-trigger
+My Freestyle experiment for poll scm auto-trigger
